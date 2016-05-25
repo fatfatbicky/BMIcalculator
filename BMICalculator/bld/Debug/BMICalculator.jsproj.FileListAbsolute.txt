@@ -1,0 +1,16 @@
+c:\users\bicky\documents\visual studio 2015\Projects\BMICalculator\BMICalculator\bin\Debug\ReverseMap\resources.pri
+c:\users\bicky\documents\visual studio 2015\Projects\BMICalculator\BMICalculator\bin\Debug\AppxManifest.xml
+c:\users\bicky\documents\visual studio 2015\Projects\BMICalculator\BMICalculator\bin\Debug\BMICalculator.build.appxrecipe
+c:\users\bicky\documents\visual studio 2015\Projects\BMICalculator\BMICalculator\bld\Debug\ResourceHandlingTask.state
+c:\users\bicky\documents\visual studio 2015\Projects\BMICalculator\BMICalculator\bld\Debug\priconfig.xml
+c:\users\bicky\documents\visual studio 2015\Projects\BMICalculator\BMICalculator\bld\Debug\priconfig.xml.intermediate
+c:\users\bicky\documents\visual studio 2015\Projects\BMICalculator\BMICalculator\bld\Debug\layout.resfiles
+c:\users\bicky\documents\visual studio 2015\Projects\BMICalculator\BMICalculator\bld\Debug\layout.resfiles.intermediate
+c:\users\bicky\documents\visual studio 2015\Projects\BMICalculator\BMICalculator\bld\Debug\resources.resfiles
+c:\users\bicky\documents\visual studio 2015\Projects\BMICalculator\BMICalculator\bld\Debug\resources.resfiles.intermediate
+c:\users\bicky\documents\visual studio 2015\Projects\BMICalculator\BMICalculator\bld\Debug\pri.resfiles
+c:\users\bicky\documents\visual studio 2015\Projects\BMICalculator\BMICalculator\bld\Debug\pri.resfiles.intermediate
+c:\users\bicky\documents\visual studio 2015\Projects\BMICalculator\BMICalculator\bld\Debug\qualifiers.txt
+c:\users\bicky\documents\visual studio 2015\Projects\BMICalculator\BMICalculator\bld\Debug\qualifiers.txt.intermediate
+c:\users\bicky\documents\visual studio 2015\Projects\BMICalculator\BMICalculator\bld\Debug\MultipleQualifiersPerDimensionFound.txt
+c:\users\bicky\documents\visual studio 2015\Projects\BMICalculator\BMICalculator\bld\Debug\ProjectArchitectures.txt

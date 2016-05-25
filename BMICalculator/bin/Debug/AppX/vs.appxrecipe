@@ -1,0 +1,98 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>BICKY-PC</Machine>
+    <WindowsUser>bicky</WindowsUser>
+    <TargetPlatformIdentifier>UAP</TargetPlatformIdentifier>
+    <TargetOsVersion>10.0</TargetOsVersion>
+    <TargetOsDescription>Windows 10.0</TargetOsDescription>
+    <SolutionConfiguration>Debug|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+    <PackageIdentityName>77267946-bf3e-42f4-b6fd-964f5e28d3a3</PackageIdentityName>
+    <IntermediateOutputPath>c:\users\bicky\documents\visual studio 2015\Projects\BMICalculator\BMICalculator\bld\Debug\</IntermediateOutputPath>
+    <RegisteredManifestChecksum>3533D18964987EF7224BE33CB66415E19AA10D1BF247D4D9619F222A27EB64D5</RegisteredManifestChecksum>
+    <RegisteredPackageMoniker>77267946-bf3e-42f4-b6fd-964f5e28d3a3_1.0.0.0_neutral__nfgb4zvjrp5dm</RegisteredPackageMoniker>
+    <RegisteredUserModeAppID>77267946-bf3e-42f4-b6fd-964f5e28d3a3_nfgb4zvjrp5dm!App</RegisteredUserModeAppID>
+    <RegisteredPackageID>77267946-bf3e-42f4-b6fd-964f5e28d3a3</RegisteredPackageID>
+    <RegisteredPackagePublisher>CN=bicky</RegisteredPackagePublisher>
+    <RegisteredVersion>1.0.0.0</RegisteredVersion>
+    <JitOptimizationSuppressed>True</JitOptimizationSuppressed>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="c:\users\bicky\documents\visual studio 2015\Projects\BMICalculator\BMICalculator\bin\Debug\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2016-05-24T15:44:29.122</Modified>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="c:\users\bicky\documents\visual studio 2015\Projects\BMICalculator\BMICalculator\index.html">
+      <PackagePath>index.html</PackagePath>
+      <Modified>2016-05-24T16:53:36.008</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\bicky\documents\visual studio 2015\Projects\BMICalculator\BMICalculator\images\LockScreenLogo.scale-200.png">
+      <PackagePath>images\LockScreenLogo.scale-200.png</PackagePath>
+      <Modified>2015-07-20T18:06:24.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\bicky\documents\visual studio 2015\Projects\BMICalculator\BMICalculator\images\SplashScreen.scale-200.png">
+      <PackagePath>images\SplashScreen.scale-200.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-07-20T18:06:24.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\bicky\documents\visual studio 2015\Projects\BMICalculator\BMICalculator\images\Square150x150Logo.scale-200.png">
+      <PackagePath>images\Square150x150Logo.scale-200.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-07-20T18:06:24.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\bicky\documents\visual studio 2015\Projects\BMICalculator\BMICalculator\images\Square44x44Logo.scale-200.png">
+      <PackagePath>images\Square44x44Logo.scale-200.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-07-20T18:06:24.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\bicky\documents\visual studio 2015\Projects\BMICalculator\BMICalculator\images\Square44x44Logo.targetsize-24_altform-unplated.png">
+      <PackagePath>images\Square44x44Logo.targetsize-24_altform-unplated.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-07-20T18:06:24.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\bicky\documents\visual studio 2015\Projects\BMICalculator\BMICalculator\images\StoreLogo.png">
+      <PackagePath>images\StoreLogo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-07-20T18:06:24.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\bicky\documents\visual studio 2015\Projects\BMICalculator\BMICalculator\images\Wide310x150Logo.scale-200.png">
+      <PackagePath>images\Wide310x150Logo.scale-200.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-07-20T18:06:24.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\bicky\documents\visual studio 2015\Projects\BMICalculator\BMICalculator\js\main.js">
+      <PackagePath>js\main.js</PackagePath>
+      <Modified>2016-05-24T17:17:47.253</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\bicky\documents\visual studio 2015\Projects\BMICalculator\BMICalculator\lib\winjs-4.0.1\js\base.js">
+      <PackagePath>lib\winjs-4.0.1\js\base.js</PackagePath>
+      <Modified>2016-04-18T17:42:54.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\bicky\documents\visual studio 2015\Projects\BMICalculator\BMICalculator\lib\winjs-4.0.1\js\ui.js">
+      <PackagePath>lib\winjs-4.0.1\js\ui.js</PackagePath>
+      <Modified>2016-04-18T17:42:54.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\bicky\documents\visual studio 2015\Projects\BMICalculator\BMICalculator\css\default.css">
+      <PackagePath>css\default.css</PackagePath>
+      <Modified>2016-05-24T15:14:10.437</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\bicky\documents\visual studio 2015\Projects\BMICalculator\BMICalculator\lib\winjs-4.0.1\css\ui-light.css">
+      <PackagePath>lib\winjs-4.0.1\css\ui-light.css</PackagePath>
+      <Modified>2016-04-18T17:42:54.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\bicky\documents\visual studio 2015\Projects\BMICalculator\BMICalculator\lib\winjs-4.0.1\css\ui-dark.css">
+      <PackagePath>lib\winjs-4.0.1\css\ui-dark.css</PackagePath>
+      <Modified>2016-04-18T17:42:54.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\bicky\documents\visual studio 2015\Projects\BMICalculator\BMICalculator\bin\Debug\ReverseMap\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+      <Modified>2016-05-24T15:44:28.974</Modified>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>
